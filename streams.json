@@ -1797,7 +1797,7 @@
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/Getwin-Sports運動台.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Getwin Sports運動台\" tvg-name=\"Getwin Sports運動台\" tvg-logo=\"https://material.1989.click/logo/Getwin-Sports運動台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Getwin Sports運動「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"getwin sport運動台\" tvg-name=\"getwin sport運動台\" tvg-logo=\"https://material.1989.click/logo/Getwin-Sports運動台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Getwin Sports運動「4gTV」"
   },
   {
     "name": "ABC Australia 澳洲公廣「4gTV」",
