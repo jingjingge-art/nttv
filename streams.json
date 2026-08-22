@@ -2844,40 +2844,40 @@
     "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
   },
   {
-    "name": "天映頻[新加坡]",
+    "name": "天映頻道｜新加坡",
     "url": "https://cdn.qd.je/163189/typd",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映新加坡\" tvg-name=\"天映新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻[新加坡]"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道新加坡\" tvg-name=\"天映頻道新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道｜新加坡"
   },
   {
-    "name": "天映頻道[马来西亚]",
-    "url": "https://cdn.qd.je/163189/typd2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映马来西亚\" tvg-name=\"天映马来西亚\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道[马来西亚]"
-  },
-  {
-    "name": "天映經典頻道",
-    "url": "https://cdn.qd.je/163189/ccm2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映經典頻道\" tvg-name=\"天映經典頻道\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典頻道"
-  },
-  {
-    "name": "天映經典頻道",
+    "name": "天映經典｜新加坡",
     "url": "https://cdn.qd.je/163189/ccm",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映經典頻道\" tvg-name=\"天映經典頻道\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典頻道"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映經典新加坡\" tvg-name=\"天映經典新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典｜新加坡"
+  },
+  {
+    "name": "天映頻道｜马来西亚",
+    "url": "https://cdn.qd.je/163189/typd2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道馬來西亞\" tvg-name=\"天映頻道馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道｜马来西亚"
+  },
+  {
+    "name": "天映經典｜馬來西亞",
+    "url": "https://cdn.qd.je/163189/ccm2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"天映經典馬來西亞\" tvg-name=\"天映經典馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典｜馬來西亞"
   },
   {
     "name": "Astro AOD",
@@ -2886,25 +2886,25 @@
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"AOD\" tvg-name=\"AOD\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Astro AOD"
+    "extinf": "#EXTINF:-1 tvg-id=\"Astro AOD\" tvg-name=\"Astro AOD\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Astro AOD"
   },
   {
-    "name": "Astro欢喜台",
+    "name": "Astro 歡喜台",
     "url": "https://cdn.qd.je/163189/hxt",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HUA HEE DAI\" tvg-name=\"HUA HEE DAI\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Astro欢喜台"
+    "extinf": "#EXTINF:-1 tvg-id=\"Astro歡喜台\" tvg-name=\"Astro歡喜台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Astro 歡喜台"
   },
   {
-    "name": "爱奇艺",
+    "name": "iQIYI",
     "url": "https://cdn.qd.je/163189/iqiyi",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"iQIYI\" tvg-name=\"iQIYI\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",爱奇艺"
+    "extinf": "#EXTINF:-1 tvg-id=\"iQIYI\" tvg-name=\"iQIYI\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",iQIYI"
   },
   {
     "name": "千禧經典台",
