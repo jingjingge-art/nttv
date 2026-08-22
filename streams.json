@@ -2025,51 +2025,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"beIN Sports 5\" tvg-name=\"beIN Sports 5\" tvg-logo=\"https://iptv.1989.click/logo/beIN%20Sports%205.webp\" group-title=\"•體育「Relay」\",beIN Sports 5"
   },
   {
-    "name": "TSN 1",
-    "url": "https://iptv.1989.click/sprt/t9mptx?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://iptv.1989.click/logo/TSN%201.webp",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TSN 1\" tvg-name=\"TSN 1\" tvg-logo=\"https://iptv.1989.click/logo/TSN%201.webp\" group-title=\"•體育「Relay」\",TSN 1"
-  },
-  {
-    "name": "TSN 2",
-    "url": "https://iptv.1989.click/sprt/qab7jf?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://iptv.1989.click/logo/TSN%202.webp",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TSN 2\" tvg-name=\"TSN 2\" tvg-logo=\"https://iptv.1989.click/logo/TSN%202.webp\" group-title=\"•體育「Relay」\",TSN 2"
-  },
-  {
-    "name": "TSN 3",
-    "url": "https://iptv.1989.click/sprt/wtuub6?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://iptv.1989.click/logo/TSN%203.webp",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TSN 3\" tvg-name=\"TSN 3\" tvg-logo=\"https://iptv.1989.click/logo/TSN%203.webp\" group-title=\"•體育「Relay」\",TSN 3"
-  },
-  {
-    "name": "TSN 4",
-    "url": "https://iptv.1989.click/sprt/fx2522?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://iptv.1989.click/logo/TSN%204.webp",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TSN 4\" tvg-name=\"TSN 4\" tvg-logo=\"https://iptv.1989.click/logo/TSN%204.webp\" group-title=\"•體育「Relay」\",TSN 4"
-  },
-  {
-    "name": "TSN 5",
-    "url": "https://iptv.1989.click/sprt/j4tcys?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://iptv.1989.click/logo/TSN%205.webp",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TSN 5\" tvg-name=\"TSN 5\" tvg-logo=\"https://iptv.1989.click/logo/TSN%205.webp\" group-title=\"•體育「Relay」\",TSN 5"
-  },
-  {
     "name": "Hub Premier 1",
     "url": "https://iptv.1989.click/sprt/dec7dz?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
     "tvg-id": "",
@@ -2194,6 +2149,51 @@
     "tvg-logo": "https://iptv.1989.click/logo/Hub%20Sports%208.webp",
     "group-title": "",
     "extinf": "#EXTINF:-1 tvg-id=\"Hub Sports 8\" tvg-name=\"Hub Sports 8\" tvg-logo=\"https://iptv.1989.click/logo/Hub%20Sports%208.webp\" group-title=\"•體育「Relay」\",Hub Sports 8"
+  },
+  {
+    "name": "TSN 1",
+    "url": "https://iptv.1989.click/sprt/jqebud?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TSN%201.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TSN 1\" tvg-name=\"TSN 1\" tvg-logo=\"https://iptv.1989.click/logo/TSN%201.webp\" group-title=\"•體育「Relay」\",TSN 1"
+  },
+  {
+    "name": "TSN 2",
+    "url": "https://iptv.1989.click/sprt/qab7jf?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TSN%202.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TSN 2\" tvg-name=\"TSN 2\" tvg-logo=\"https://iptv.1989.click/logo/TSN%202.webp\" group-title=\"•體育「Relay」\",TSN 2"
+  },
+  {
+    "name": "TSN 3",
+    "url": "https://iptv.1989.click/sprt/wtuub6?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TSN%203.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TSN 3\" tvg-name=\"TSN 3\" tvg-logo=\"https://iptv.1989.click/logo/TSN%203.webp\" group-title=\"•體育「Relay」\",TSN 3"
+  },
+  {
+    "name": "TSN 4",
+    "url": "https://iptv.1989.click/sprt/fx2522?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TSN%204.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TSN 4\" tvg-name=\"TSN 4\" tvg-logo=\"https://iptv.1989.click/logo/TSN%204.webp\" group-title=\"•體育「Relay」\",TSN 4"
+  },
+  {
+    "name": "TSN 5",
+    "url": "https://iptv.1989.click/sprt/j4tcys?token=cd9a2201c03ab92f4f861762d6243690c92e00b9c6017e64",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TSN%205.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TSN 5\" tvg-name=\"TSN 5\" tvg-logo=\"https://iptv.1989.click/logo/TSN%205.webp\" group-title=\"•體育「Relay」\",TSN 5"
   },
   {
     "name": "Spotv 1",
