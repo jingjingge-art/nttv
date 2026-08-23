@@ -279,6 +279,33 @@
     "extinf": "#EXTINF:-1 tvg-id=\"四川卫视\" tvg-name=\"四川卫视\" tvg-logo=\"https://material.1989.click/logo/四川卫视.png\" group-title=\"•央視「Relay」\",四川衛視「Relay」"
   },
   {
+    "name": "鳳凰衛視·中文｜72小时回看",
+    "url": "https://iptv.1989.click/phoenix/segv57?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/凤凰中文.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰中文台\" tvg-name=\"凤凰中文台\" tvg-logo=\"https://material.1989.click/logo/凤凰中文.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·中文｜72小时回看"
+  },
+  {
+    "name": "鳳凰衛視·資訊｜72小时回看",
+    "url": "https://iptv.1989.click/phoenix/esmvja?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/凤凰资讯.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰资讯台\" tvg-name=\"凤凰资讯台\" tvg-logo=\"https://material.1989.click/logo/凤凰资讯.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·資訊｜72小时回看"
+  },
+  {
+    "name": "鳳凰衛視·香港｜72小时回看",
+    "url": "https://iptv.1989.click/phoenix/vm4pbq?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/凤凰香港.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰香港台\" tvg-name=\"凤凰香港台\" tvg-logo=\"https://material.1989.click/logo/凤凰香港.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·香港｜72小时回看"
+  },
+  {
     "name": "翡翠台｜24小时回看",
     "url": "https://iptv.1989.click/hk/wmpyht?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
@@ -387,49 +414,22 @@
     "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 精選\" tvg-name=\"Now Sports 精選\" tvg-logo=\"https://material.1989.click/logo/Now Sports 精選.png\" group-title=\"•香港「Relay」\",Now Sports 精選"
   },
   {
-    "name": "鳳凰衛視·中文｜72小时回看",
-    "url": "https://iptv.1989.click/phoenix/segv57?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/凤凰中文.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰中文台\" tvg-name=\"凤凰中文台\" tvg-logo=\"https://material.1989.click/logo/凤凰中文.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·中文｜72小时回看"
-  },
-  {
-    "name": "鳳凰衛視·資訊｜72小时回看",
-    "url": "https://iptv.1989.click/phoenix/esmvja?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/凤凰资讯.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰资讯台\" tvg-name=\"凤凰资讯台\" tvg-logo=\"https://material.1989.click/logo/凤凰资讯.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·資訊｜72小时回看"
-  },
-  {
-    "name": "鳳凰衛視·香港｜72小时回看",
-    "url": "https://iptv.1989.click/phoenix/vm4pbq?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/凤凰香港.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰香港台\" tvg-name=\"凤凰香港台\" tvg-logo=\"https://material.1989.click/logo/凤凰香港.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·香港｜72小时回看"
-  },
-  {
-    "name": "Now Sports 617",
+    "name": "Now Sports 英超 2台",
     "url": "https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/Now-Sports-617.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 4K 617\" tvg-name=\"Now Sports 4K 617\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 617"
+    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 英超 2台"
   },
   {
-    "name": "Now Sports 618",
+    "name": "Now Sports 英超 X 台",
     "url": "https://iptv.1989.click/hkg/33fc87?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/Now-Sports-618.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 618\" tvg-name=\"Now Sports 618\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-618.png\" group-title=\"•香港「Relay」\",Now Sports 618"
+    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-618.png\" group-title=\"•香港「Relay」\",Now Sports 英超 X 台"
   },
   {
     "name": "雷霆881｜電台",
@@ -460,7 +460,7 @@
   },
   {
     "name": "HOY 國際財經台",
-    "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+    "url": "https://iptv.1989.click/hkgf/e7wspc?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY76.png",
@@ -469,7 +469,7 @@
   },
   {
     "name": "HOY TV",
-    "url": "https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8",
+    "url": "https://iptv.1989.click/hkgf/vjqrnv?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY77.png",
@@ -478,7 +478,7 @@
   },
   {
     "name": "HOY 資訊台",
-    "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
+    "url": "https://iptv.1989.click/hkgf/zvykuy?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY78.png",
@@ -487,7 +487,7 @@
   },
   {
     "name": "RTHK 31",
-    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/9rnn4g?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK31.webp",
@@ -496,7 +496,7 @@
   },
   {
     "name": "RTHK 32",
-    "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/7tzz9c?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK32.webp",
@@ -505,7 +505,7 @@
   },
   {
     "name": "RTHK 33",
-    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/vbkbbd?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK33.webp",
@@ -513,17 +513,17 @@
     "extinf": "#EXTINF:-1 tvg-id=\"RTHK33\" tvg-name=\"RTHK33\" tvg-logo=\"https://iptv.1989.click/logo/RTHK33.webp\" group-title=\"•香港「Relay」\",RTHK 33"
   },
   {
-    "name": "澳門Macau",
-    "url": "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+    "name": "澳門衛星",
+    "url": "https://iptv.1989.click/hkgf/y99mj5?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门Macau.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"澳門衛星\" tvg-name=\"澳門衛星\" tvg-logo=\"https://material.1989.click/logo/澳门Macau.png\" group-title=\"•香港「Relay」\",澳門Macau"
+    "extinf": "#EXTINF:-1 tvg-id=\"澳門衛星\" tvg-name=\"澳門衛星\" tvg-logo=\"https://material.1989.click/logo/澳门Macau.png\" group-title=\"•香港「Relay」\",澳門衛星"
   },
   {
     "name": "澳門葡文",
-    "url": "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/62dm4y?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳视葡文.png",
@@ -532,7 +532,7 @@
   },
   {
     "name": "澳視澳門",
-    "url": "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/x3u3tn?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳视澳门.png",
@@ -541,7 +541,7 @@
   },
   {
     "name": "澳門資訊",
-    "url": "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/jsawfh?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门资讯.png",
@@ -550,7 +550,7 @@
   },
   {
     "name": "澳門體育",
-    "url": "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/n5ky5q?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门体育.png",
@@ -559,7 +559,7 @@
   },
   {
     "name": "澳門綜藝",
-    "url": "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+    "url": "https://iptv.1989.click/hkgf/g699j2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门综艺.png",
@@ -2574,13 +2574,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"澳門綜藝\" tvg-name=\"澳門綜藝\" tvg-logo=\"https://material.1989.click/logo/澳门综艺.png\" group-title=\"•港澳台「Juli」\",澳門綜藝"
   },
   {
-    "name": "澳門莲花",
+    "name": "澳門蓮花",
     "url": "https://cdn.qd.je/163189/amlh",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门莲花.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"澳門莲花\" tvg-name=\"澳門莲花\" tvg-logo=\"https://material.1989.click/logo/澳门莲花.png\" group-title=\"•港澳台「Juli」\",澳門莲花"
+    "extinf": "#EXTINF:-1 tvg-id=\"澳門蓮花衛視\" tvg-name=\"澳門蓮花衛視\" tvg-logo=\"https://material.1989.click/logo/澳门莲花.png\" group-title=\"•港澳台「Juli」\",澳門蓮花"
   },
   {
     "name": "重温经典",
