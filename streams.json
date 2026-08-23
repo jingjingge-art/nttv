@@ -636,7 +636,7 @@
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育1台\" tvg-name=\"愛爾達體育1台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 二"
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育2台\" tvg-name=\"愛爾達體育2台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 二"
   },
   {
     "name": "DAZN 1",
@@ -1845,6 +1845,24 @@
     "extinf": "#EXTINF:-1 tvg-id=\"ABC Australia 澳洲公廣頻道\" tvg-name=\"ABC Australia 澳洲公廣頻道\" tvg-logo=\"https://material.1989.click/logo/ABC-Australia.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",ABC Australia 澳洲公廣「4gTV」"
   },
   {
+    "name": "wedotv Movies",
+    "url": "https://iptv.1989.click/4gtv/2vv77x?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"wedotv Movies\" tvg-name=\"wedotv Movies\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",wedotv Movies"
+  },
+  {
+    "name": "OUTtv",
+    "url": "https://iptv.1989.click/4gtv/q2zmu7?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"OUTtv\" tvg-name=\"OUTtv\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",OUTtv"
+  },
+  {
     "name": "龍華偶像「ofiii」",
     "url": "https://iptv.1989.click/ofiii/7buc2r?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
@@ -2583,6 +2601,123 @@
     "extinf": "#EXTINF:-1 tvg-id=\"RTHK33\" tvg-name=\"RTHK33\" tvg-logo=\"https://iptv.1989.click/logo/RTHK33.webp\" group-title=\"•港澳台「Juli」\",RTHK33"
   },
   {
+    "name": "TVB1",
+    "url": "https://cdn.qd.je/163189/tvb1",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB1\" tvg-name=\"TVB1\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB1"
+  },
+  {
+    "name": "TVBJ1",
+    "url": "https://cdn.qd.je/163189/j1",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVBJ1\" tvg-name=\"TVBJ1\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVBJ1"
+  },
+  {
+    "name": "千禧經典台",
+    "url": "https://cdn.qd.je/163189/tvbc",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"千禧經典台\" tvg-name=\"千禧經典台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",千禧經典台"
+  },
+  {
+    "name": "娛樂新聞台",
+    "url": "https://cdn.qd.je/163189/ylxw",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"娛樂新聞台\" tvg-name=\"娛樂新聞台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",娛樂新聞台"
+  },
+  {
+    "name": "翡翠劇集台",
+    "url": "https://cdn.qd.je/163189/tvbd",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"翡翠劇集台\" tvg-name=\"翡翠劇集台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",翡翠劇集台"
+  },
+  {
+    "name": "华丽翡翠台",
+    "url": "https://cdn.qd.je/163189/hlt",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台"
+  },
+  {
+    "name": "华丽翡翠台「硬字幕」",
+    "url": "https://cdn.qd.je/163189/jade",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「硬字幕」"
+  },
+  {
+    "name": "华丽翡翠台「新加坡」",
+    "url": "https://cdn.qd.je/163189/hlfct",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
+  },
+  {
+    "name": "华丽翡翠台「新加坡」",
+    "url": "https://cdn.qd.je/163189/jade2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
+  },
+  {
+    "name": "TVB 功夫台",
+    "url": "https://cdn.qd.je/163189/yzwx",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/亞洲武俠.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"功夫台\" tvg-name=\"功夫台\" tvg-logo=\"https://material.1989.click/logo/亞洲武俠.png\" group-title=\"•港澳台「Juli」\",TVB 功夫台"
+  },
+  {
+    "name": "TVB 星河台",
+    "url": "https://cdn.qd.je/163189/tvbxh",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+  },
+  {
+    "name": "TVB 星河台",
+    "url": "https://cdn.qd.je/163189/xinghe",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+  },
+  {
+    "name": "TVB 星河台",
+    "url": "https://cdn.qd.je/163189/tvbxh2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+  },
+  {
     "name": "澳視澳門",
     "url": "https://cdn.qd.je/163189/asam",
     "tvg-id": "",
@@ -2626,267 +2761,6 @@
     "tvg-logo": "https://material.1989.click/logo/澳门莲花.png",
     "group-title": "",
     "extinf": "#EXTINF:-1 tvg-id=\"澳門蓮花衛視\" tvg-name=\"澳門蓮花衛視\" tvg-logo=\"https://material.1989.click/logo/澳门莲花.png\" group-title=\"•港澳台「Juli」\",澳門蓮花"
-  },
-  {
-    "name": "重温经典",
-    "url": "https://cdn.qd.je/163189/cwjd",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/重温经典.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"https://material.1989.click/logo/重温经典.png\" group-title=\"•港澳台「Juli」\",重温经典"
-  },
-  {
-    "name": "TVB1",
-    "url": "https://cdn.qd.je/163189/tvb1",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB1\" tvg-name=\"TVB1\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB1"
-  },
-  {
-    "name": "TVBJ1",
-    "url": "https://cdn.qd.je/163189/j1",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVBJ1\" tvg-name=\"TVBJ1\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVBJ1"
-  },
-  {
-    "name": "翡翠劇集台",
-    "url": "https://cdn.qd.je/163189/tvbd",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"翡翠劇集台\" tvg-name=\"翡翠劇集台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",翡翠劇集台"
-  },
-  {
-    "name": "广东珠江",
-    "url": "https://cdn.qd.je/163189/gdzj",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"广东珠江\" tvg-name=\"广东珠江\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",广东珠江"
-  },
-  {
-    "name": "广东体育",
-    "url": "https://cdn.qd.je/163189/gdty",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"广东体育\" tvg-name=\"广东体育\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",广东体育"
-  },
-  {
-    "name": "八度空间",
-    "url": "https://cdn.qd.je/163189/8tv",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"8TV\" tvg-name=\"8TV\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",八度空间"
-  },
-  {
-    "name": "Channel 5",
-    "url": "https://cdn.qd.je/163189/ch5",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 5"
-  },
-  {
-    "name": "Channel 8",
-    "url": "https://cdn.qd.je/163189/ch8",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 8"
-  },
-  {
-    "name": "Channel U",
-    "url": "https://cdn.qd.je/163189/chu",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel U"
-  },
-  {
-    "name": "金光布袋戲",
-    "url": "https://cdn.qd.je/163189/jgbdx",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",金光布袋戲"
-  },
-  {
-    "name": "龍華電影台",
-    "url": "https://cdn.qd.je/163189/lhdy",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華電影台\" tvg-name=\"龍華電影台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華電影台"
-  },
-  {
-    "name": "龍華經典台",
-    "url": "https://cdn.qd.je/163189/lhjd",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華經典台\" tvg-name=\"龍華經典台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華經典台"
-  },
-  {
-    "name": "龍華偶像台",
-    "url": "https://cdn.qd.je/163189/lhox",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華偶像台\" tvg-name=\"龍華偶像台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華偶像台"
-  },
-  {
-    "name": "龍華日韓台",
-    "url": "https://cdn.qd.je/163189/lhrh",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華日韓台\" tvg-name=\"龍華日韓台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華日韓台"
-  },
-  {
-    "name": "龍華戲劇台",
-    "url": "https://cdn.qd.je/163189/lhxj",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華戲劇台\" tvg-name=\"龍華戲劇台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華戲劇台"
-  },
-  {
-    "name": "龍華洋片台",
-    "url": "https://cdn.qd.je/163189/lhyp",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華洋片台\" tvg-name=\"龍華洋片台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華洋片台"
-  },
-  {
-    "name": "龍華卡通台",
-    "url": "https://cdn.qd.je/163189/lhkt",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"龍華卡通台\" tvg-name=\"龍華卡通台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華卡通台"
-  },
-  {
-    "name": "华丽翡翠台",
-    "url": "https://cdn.qd.je/163189/hlt",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台"
-  },
-  {
-    "name": "华丽翡翠台「硬字幕」",
-    "url": "https://cdn.qd.je/163189/jade",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「硬字幕」"
-  },
-  {
-    "name": "华丽翡翠台「新加坡」",
-    "url": "https://cdn.qd.je/163189/hlfct",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
-  },
-  {
-    "name": "华丽翡翠台「新加坡」",
-    "url": "https://cdn.qd.je/163189/jade2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
-  },
-  {
-    "name": "功夫台",
-    "url": "https://cdn.qd.je/163189/yzwx",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/亞洲武俠.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"功夫台\" tvg-name=\"功夫台\" tvg-logo=\"https://material.1989.click/logo/亞洲武俠.png\" group-title=\"•港澳台「Juli」\",功夫台"
-  },
-  {
-    "name": "娛樂新聞台",
-    "url": "https://cdn.qd.je/163189/ylxw",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"娛樂新聞台\" tvg-name=\"娛樂新聞台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",娛樂新聞台"
-  },
-  {
-    "name": "TVB 星河台",
-    "url": "https://cdn.qd.je/163189/tvbxh",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
-  },
-  {
-    "name": "TVB 星河台",
-    "url": "https://cdn.qd.je/163189/xinghe",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
-  },
-  {
-    "name": "TVB 星河台",
-    "url": "https://cdn.qd.je/163189/tvbxh2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
-  },
-  {
-    "name": "海峡卫视",
-    "url": "https://cdn.qd.je/163189/hxws",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
-  },
-  {
-    "name": "海峡卫视",
-    "url": "https://cdn.qd.je/163189/hxws2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
   },
   {
     "name": "天映頻道「新加坡」",
@@ -2952,13 +2826,40 @@
     "extinf": "#EXTINF:-1 tvg-id=\"iQIYI\" tvg-name=\"iQIYI\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",iQIYI"
   },
   {
-    "name": "千禧經典台",
-    "url": "https://cdn.qd.je/163189/tvbc",
+    "name": "八度空间",
+    "url": "https://cdn.qd.je/163189/8tv",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"千禧經典台\" tvg-name=\"千禧經典台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",千禧經典台"
+    "extinf": "#EXTINF:-1 tvg-id=\"8TV\" tvg-name=\"8TV\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",八度空间"
+  },
+  {
+    "name": "Channel 5",
+    "url": "https://cdn.qd.je/163189/ch5",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 5"
+  },
+  {
+    "name": "Channel 8",
+    "url": "https://cdn.qd.je/163189/ch8",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 8"
+  },
+  {
+    "name": "Channel U",
+    "url": "https://cdn.qd.je/163189/chu",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel U"
   },
   {
     "name": "CCTV1",
@@ -3159,6 +3060,15 @@
     "extinf": "#EXTINF:-1 tvg-id=\"CCTV17\" tvg-name=\"CCTV17\" tvg-logo=\"https://iptv.1989.click/logo/CCTV17.webp\" group-title=\"•港澳台「Juli」\",CCTV17"
   },
   {
+    "name": "五星体育",
+    "url": "https://cdn.qd.je/163189/wxty",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"五星体育\" tvg-name=\"五星体育\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",五星体育"
+  },
+  {
     "name": "重温经典",
     "url": "https://cdn.qd.je/163189/cwjd2",
     "tvg-id": "",
@@ -3166,6 +3076,33 @@
     "tvg-logo": "",
     "group-title": "",
     "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",重温经典"
+  },
+  {
+    "name": "重温经典",
+    "url": "https://cdn.qd.je/163189/cwjd",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/重温经典.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"https://material.1989.click/logo/重温经典.png\" group-title=\"•港澳台「Juli」\",重温经典"
+  },
+  {
+    "name": "广东珠江",
+    "url": "https://cdn.qd.je/163189/gdzj",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"广东珠江\" tvg-name=\"广东珠江\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",广东珠江"
+  },
+  {
+    "name": "广东体育",
+    "url": "https://cdn.qd.je/163189/gdty",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"广东体育\" tvg-name=\"广东体育\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",广东体育"
   },
   {
     "name": "广州综合",
@@ -3195,13 +3132,94 @@
     "extinf": "#EXTINF:-1 tvg-id=\"南国都市4K\" tvg-name=\"南国都市4K\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",广州南国都市"
   },
   {
-    "name": "五星体育",
-    "url": "https://cdn.qd.je/163189/wxty",
+    "name": "海峡卫视",
+    "url": "https://cdn.qd.je/163189/hxws",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"五星体育\" tvg-name=\"五星体育\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",五星体育"
+    "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
+  },
+  {
+    "name": "海峡卫视",
+    "url": "https://cdn.qd.je/163189/hxws2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
+  },
+  {
+    "name": "金光布袋戲",
+    "url": "https://cdn.qd.je/163189/jgbdx",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",金光布袋戲"
+  },
+  {
+    "name": "龍華電影台",
+    "url": "https://cdn.qd.je/163189/lhdy",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華電影台\" tvg-name=\"龍華電影台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華電影台"
+  },
+  {
+    "name": "龍華經典台",
+    "url": "https://cdn.qd.je/163189/lhjd",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華經典台\" tvg-name=\"龍華經典台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華經典台"
+  },
+  {
+    "name": "龍華偶像台",
+    "url": "https://cdn.qd.je/163189/lhox",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華偶像台\" tvg-name=\"龍華偶像台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華偶像台"
+  },
+  {
+    "name": "龍華日韓台",
+    "url": "https://cdn.qd.je/163189/lhrh",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華日韓台\" tvg-name=\"龍華日韓台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華日韓台"
+  },
+  {
+    "name": "龍華戲劇台",
+    "url": "https://cdn.qd.je/163189/lhxj",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華戲劇台\" tvg-name=\"龍華戲劇台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華戲劇台"
+  },
+  {
+    "name": "龍華洋片台",
+    "url": "https://cdn.qd.je/163189/lhyp",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華洋片台\" tvg-name=\"龍華洋片台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華洋片台"
+  },
+  {
+    "name": "龍華卡通台",
+    "url": "https://cdn.qd.je/163189/lhkt",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"龍華卡通台\" tvg-name=\"龍華卡通台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",龍華卡通台"
   },
   {
     "name": "民視影劇台",
