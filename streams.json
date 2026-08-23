@@ -346,9 +346,9 @@
     "url": "https://iptv.1989.click/hk/wz5qtv?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/美亞電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/美亞電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"美亞電影台\" tvg-name=\"美亞電影台\" tvg-logo=\"https://material.1989.click/logo/美亞電影台.png\" group-title=\"•香港「Relay」\",美亞電影台"
+    "extinf": "#EXTINF:-1 tvg-id=\"美亞電影台\" tvg-name=\"美亞電影台\" tvg-logo=\"https://iptv.1989.click/logo/美亞電影台.webp\" group-title=\"•香港「Relay」\",美亞電影台"
   },
   {
     "name": "PopC",
@@ -742,18 +742,18 @@
     "url": "https://iptv.1989.click/tw/enfn3t?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/動物星球.png",
+    "tvg-logo": "https://iptv.1989.click/logo/動物星球.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"動物星球\" tvg-name=\"動物星球\" tvg-logo=\"https://material.1989.click/logo/動物星球.png\" group-title=\"•台灣「Relay」\",動物星球「Relay」"
+    "extinf": "#EXTINF:-1 tvg-id=\"動物星球\" tvg-name=\"動物星球\" tvg-logo=\"https://iptv.1989.click/logo/動物星球.webp\" group-title=\"•台灣「Relay」\",動物星球「Relay」"
   },
   {
     "name": "CATCHPLAY 電影「Relay」",
     "url": "https://iptv.1989.click/tw/gmsfnm?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/CATCHPLAY電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/CATCHPLAY電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"CATCHPLAY電影台\" tvg-name=\"CATCHPLAY電影台\" tvg-logo=\"https://material.1989.click/logo/CATCHPLAY電影台.png\" group-title=\"•台灣「Relay」\",CATCHPLAY 電影「Relay」"
+    "extinf": "#EXTINF:-1 tvg-id=\"CATCHPLAY電影台\" tvg-name=\"CATCHPLAY電影台\" tvg-logo=\"https://iptv.1989.click/logo/CATCHPLAY電影台.webp\" group-title=\"•台灣「Relay」\",CATCHPLAY 電影「Relay」"
   },
   {
     "name": "龍祥時代「Relay」",
@@ -778,18 +778,18 @@
     "url": "https://iptv.1989.click/tw/cynr8f?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/好萊塢電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/好萊塢電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"好萊塢電影台\" tvg-name=\"好萊塢電影台\" tvg-logo=\"https://material.1989.click/logo/好萊塢電影台.png\" group-title=\"•台灣「Relay」\",好萊塢電影「Relay」"
+    "extinf": "#EXTINF:-1 tvg-id=\"好萊塢電影台\" tvg-name=\"好萊塢電影台\" tvg-logo=\"https://iptv.1989.click/logo/好萊塢電影台.webp\" group-title=\"•台灣「Relay」\",好萊塢電影「Relay」"
   },
   {
-    "name": "MTV Live「Relay」",
+    "name": "MTV綜合台「Relay」",
     "url": "https://iptv.1989.click/tw/ecjf8r?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/MTV.png",
+    "tvg-logo": "https://iptv.1989.click/logo/MTV綜合台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"MTV\" tvg-name=\"MTV\" tvg-logo=\"https://material.1989.click/logo/MTV.png\" group-title=\"•台灣「Relay」\",MTV Live「Relay」"
+    "extinf": "#EXTINF:-1 tvg-id=\"MTV綜合台\" tvg-name=\"MTV綜合台\" tvg-logo=\"https://iptv.1989.click/logo/MTV綜合台.webp\" group-title=\"•台灣「Relay」\",MTV綜合台「Relay」"
   },
   {
     "name": "博斯運動 一「4gTV」",
@@ -1030,18 +1030,18 @@
     "url": "https://iptv.1989.click/4gtv/guzzxv?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/靖洋卡通Nice-Bingo.png",
+    "tvg-logo": "https://iptv.1989.click/logo/靖洋卡通台Nice%20Bingo.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"靖洋卡通台Nice Bingo\" tvg-name=\"靖洋卡通台Nice Bingo\" tvg-logo=\"https://material.1989.click/logo/靖洋卡通Nice-Bingo.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",靖洋卡通「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"靖洋卡通台Nice Bingo\" tvg-name=\"靖洋卡通台Nice Bingo\" tvg-logo=\"https://iptv.1989.click/logo/靖洋卡通台Nice%20Bingo.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",靖洋卡通「4gTV」"
   },
   {
     "name": "靖洋戲劇「4gTV」",
     "url": "https://iptv.1989.click/4gtv/d7b3ku?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/靖洋戲劇台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/靖洋戲劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"靖洋戲劇台\" tvg-name=\"靖洋戲劇台\" tvg-logo=\"https://material.1989.click/logo/靖洋戲劇台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",靖洋戲劇「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"靖洋戲劇台\" tvg-name=\"靖洋戲劇台\" tvg-logo=\"https://iptv.1989.click/logo/靖洋戲劇台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",靖洋戲劇「4gTV」"
   },
   {
     "name": "八大精彩「4gTV」",
@@ -1255,9 +1255,9 @@
     "url": "https://iptv.1989.click/4gtv/xkacaz?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/CNBC-Asia-財經台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/CNBC%20Asia%20財經台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"CNBC Asia 財經台\" tvg-name=\"CNBC Asia 財經台\" tvg-logo=\"https://material.1989.click/logo/CNBC-Asia-財經台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CNBC Asia 財經「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"CNBC Asia 財經台\" tvg-name=\"CNBC Asia 財經台\" tvg-logo=\"https://iptv.1989.click/logo/CNBC%20Asia%20財經台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CNBC Asia 財經「4gTV」"
   },
   {
     "name": "SBN 全球財經「4gTV」",
@@ -1273,9 +1273,9 @@
     "url": "https://iptv.1989.click/4gtv/bfakyr?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Bloomberg-TV.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Bloomberg%20TV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Bloomberg TV\" tvg-name=\"Bloomberg TV\" tvg-logo=\"https://material.1989.click/logo/Bloomberg-TV.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Bloomberg TV「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"Bloomberg TV\" tvg-name=\"Bloomberg TV\" tvg-logo=\"https://iptv.1989.click/logo/Bloomberg%20TV.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Bloomberg TV「4gTV」"
   },
   {
     "name": "亞洲旅遊「4gTV」",
@@ -1309,27 +1309,27 @@
     "url": "https://iptv.1989.click/4gtv/3dnzsp?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/amc電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/amc電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"amc電影台\" tvg-name=\"amc電影台\" tvg-logo=\"https://material.1989.click/logo/amc電影台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",amc電影台「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"amc電影台\" tvg-name=\"amc電影台\" tvg-logo=\"https://iptv.1989.click/logo/amc電影台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",amc電影台「4gTV」"
   },
   {
     "name": "MCE 我的歐洲電影「4gTV」",
     "url": "https://iptv.1989.click/4gtv/85ajww?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/My-Cinema-Europe.png",
+    "tvg-logo": "https://iptv.1989.click/logo/My%20Cinema%20Europe%20我的歐洲電影.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"My Cinema Europe 我的歐洲電影\" tvg-name=\"My Cinema Europe 我的歐洲電影\" tvg-logo=\"https://material.1989.click/logo/My-Cinema-Europe.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",MCE 我的歐洲電影「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"My Cinema Europe 我的歐洲電影\" tvg-name=\"My Cinema Europe 我的歐洲電影\" tvg-logo=\"https://iptv.1989.click/logo/My%20Cinema%20Europe%20我的歐洲電影.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",MCE 我的歐洲電影「4gTV」"
   },
   {
     "name": "影迷數位電影「4gTV」",
     "url": "https://iptv.1989.click/4gtv/rb9hge?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/影迷數位電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/影迷數位電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"影迷數位電影台\" tvg-name=\"影迷數位電影台\" tvg-logo=\"https://material.1989.click/logo/影迷數位電影台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",影迷數位電影「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"影迷數位電影台\" tvg-name=\"影迷數位電影台\" tvg-logo=\"https://iptv.1989.click/logo/影迷數位電影台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",影迷數位電影「4gTV」"
   },
   {
     "name": "影迷數位紀實「4gTV」",
@@ -1345,18 +1345,18 @@
     "url": "https://iptv.1989.click/4gtv/e8a4ea?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/CinemaWorld.png",
+    "tvg-logo": "https://iptv.1989.click/logo/CinemaWorld.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"CinemaWorld\" tvg-name=\"CinemaWorld\" tvg-logo=\"https://material.1989.click/logo/CinemaWorld.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CinemaWorld「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"CinemaWorld\" tvg-name=\"CinemaWorld\" tvg-logo=\"https://iptv.1989.click/logo/CinemaWorld.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CinemaWorld「4gTV」"
   },
   {
     "name": "經典電影「4gTV」",
     "url": "https://iptv.1989.click/4gtv/kpufbs?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/經典電影台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/經典電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"經典電影台\" tvg-name=\"經典電影台\" tvg-logo=\"https://material.1989.click/logo/經典電影台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",經典電影「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"經典電影台\" tvg-name=\"經典電影台\" tvg-logo=\"https://iptv.1989.click/logo/經典電影台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",經典電影「4gTV」"
   },
   {
     "name": "Love Nature「4gTV」",
@@ -1390,9 +1390,9 @@
     "url": "https://iptv.1989.click/4gtv/xfh3ca?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/History-歷史頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/History%20歷史頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"History 歷史頻道\" tvg-name=\"History 歷史頻道\" tvg-logo=\"https://material.1989.click/logo/History-歷史頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",History 歷史頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"History 歷史頻道\" tvg-name=\"History 歷史頻道\" tvg-logo=\"https://iptv.1989.click/logo/History%20歷史頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",History 歷史頻道「4gTV」"
   },
   {
     "name": "ROCK Action「4gTV」",
@@ -1435,36 +1435,36 @@
     "url": "https://iptv.1989.click/4gtv/mpys72?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/韓國娛樂台-KMTV.png",
+    "tvg-logo": "https://iptv.1989.click/logo/韓國娛樂台%20KMTV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"韓國娛樂台 KMTV\" tvg-name=\"韓國娛樂台 KMTV\" tvg-logo=\"https://material.1989.click/logo/韓國娛樂台-KMTV.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",韓國娛樂台 KMTV「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"韓國娛樂台 KMTV\" tvg-name=\"韓國娛樂台 KMTV\" tvg-logo=\"https://iptv.1989.click/logo/韓國娛樂台%20KMTV.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",韓國娛樂台 KMTV「4gTV」"
   },
   {
     "name": "Lifetime 娛樂頻道「4gTV」",
     "url": "https://iptv.1989.click/4gtv/vdzu3w?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Lifetime-娛樂頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Lifetime%20娛樂頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Lifetime 娛樂頻道\" tvg-name=\"Lifetime 娛樂頻道\" tvg-logo=\"https://material.1989.click/logo/Lifetime-娛樂頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Lifetime 娛樂頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"Lifetime 娛樂頻道\" tvg-name=\"Lifetime 娛樂頻道\" tvg-logo=\"https://iptv.1989.click/logo/Lifetime%20娛樂頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Lifetime 娛樂頻道「4gTV」"
   },
   {
     "name": "fun探索娛樂「4gTV」",
     "url": "https://iptv.1989.click/4gtv/czc283?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/fun探索娛樂台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/fun探索娛樂台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"fun探索娛樂台\" tvg-name=\"fun探索娛樂台\" tvg-logo=\"https://material.1989.click/logo/fun探索娛樂台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",fun探索娛樂「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"fun探索娛樂台\" tvg-name=\"fun探索娛樂台\" tvg-logo=\"https://iptv.1989.click/logo/fun探索娛樂台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",fun探索娛樂「4gTV」"
   },
   {
     "name": "HITS頻道「4gTV」",
     "url": "https://iptv.1989.click/4gtv/bwtcnx?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HITS頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HITS頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HITS頻道\" tvg-name=\"HITS頻道\" tvg-logo=\"https://material.1989.click/logo/HITS頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",HITS頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"HITS頻道\" tvg-name=\"HITS頻道\" tvg-logo=\"https://iptv.1989.click/logo/HITS頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",HITS頻道「4gTV」"
   },
   {
     "name": "豬哥亮歌廳秀「4gTV」",
@@ -1480,18 +1480,18 @@
     "url": "https://iptv.1989.click/4gtv/5hhhcs?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/采昌影劇台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/采昌影劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"采昌影劇台\" tvg-name=\"采昌影劇台\" tvg-logo=\"https://material.1989.click/logo/采昌影劇台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",采昌影劇「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"采昌影劇台\" tvg-name=\"采昌影劇台\" tvg-logo=\"https://iptv.1989.click/logo/采昌影劇台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",采昌影劇「4gTV」"
   },
   {
     "name": "CLASSICA 古典樂「4gTV」",
     "url": "https://iptv.1989.click/4gtv/3te8fa?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/CLASSICA-古典樂.png",
+    "tvg-logo": "https://iptv.1989.click/logo/CLASSICA%20古典樂.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"CLASSICA 古典樂\" tvg-name=\"CLASSICA 古典樂\" tvg-logo=\"https://material.1989.click/logo/CLASSICA-古典樂.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CLASSICA 古典樂「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"CLASSICA 古典樂\" tvg-name=\"CLASSICA 古典樂\" tvg-logo=\"https://iptv.1989.click/logo/CLASSICA%20古典樂.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CLASSICA 古典樂「4gTV」"
   },
   {
     "name": "Mezzo Live「4gTV」",
@@ -1507,9 +1507,9 @@
     "url": "https://iptv.1989.click/4gtv/gzhcpu?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/電影原聲台CMusic.png",
+    "tvg-logo": "https://iptv.1989.click/logo/電影原聲台CMusic.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"電影原聲台CMusic\" tvg-name=\"電影原聲台CMusic\" tvg-logo=\"https://material.1989.click/logo/電影原聲台CMusic.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",電影原聲 CMusic「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"電影原聲台CMusic\" tvg-name=\"電影原聲台CMusic\" tvg-logo=\"https://iptv.1989.click/logo/電影原聲台CMusic.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",電影原聲 CMusic「4gTV」"
   },
   {
     "name": "TRACE Urban「4gTV」",
@@ -1534,54 +1534,54 @@
     "url": "https://iptv.1989.click/4gtv/k6e9uz?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/GINX-Esports-TV.png",
+    "tvg-logo": "https://iptv.1989.click/logo/GINX%20Esports%20TV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"GINX Esports TV\" tvg-name=\"GINX Esports TV\" tvg-logo=\"https://material.1989.click/logo/GINX-Esports-TV.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",GINX Esports TV「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"GINX Esports TV\" tvg-name=\"GINX Esports TV\" tvg-logo=\"https://iptv.1989.click/logo/GINX%20Esports%20TV.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",GINX Esports TV「4gTV」"
   },
   {
     "name": "DreamWorks 夢工廠動畫「4gTV」",
     "url": "https://iptv.1989.click/4gtv/scaged?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/DreamWorks-夢工廠動畫.png",
+    "tvg-logo": "https://iptv.1989.click/logo/DreamWorks%20夢工廠動畫.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"DreamWorks 夢工廠動畫\" tvg-name=\"DreamWorks 夢工廠動畫\" tvg-logo=\"https://material.1989.click/logo/DreamWorks-夢工廠動畫.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",DreamWorks 夢工廠動畫「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"DreamWorks 夢工廠動畫\" tvg-name=\"DreamWorks 夢工廠動畫\" tvg-logo=\"https://iptv.1989.click/logo/DreamWorks%20夢工廠動畫.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",DreamWorks 夢工廠動畫「4gTV」"
   },
   {
     "name": "精選動漫「4gTV」",
     "url": "https://iptv.1989.click/4gtv/zkxd34?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/精選動漫台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/精選動漫台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"精選動漫台\" tvg-name=\"精選動漫台\" tvg-logo=\"https://material.1989.click/logo/精選動漫台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",精選動漫「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"精選動漫台\" tvg-name=\"精選動漫台\" tvg-logo=\"https://iptv.1989.click/logo/精選動漫台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",精選動漫「4gTV」"
   },
   {
     "name": "經典卡通「4gTV」",
     "url": "https://iptv.1989.click/4gtv/set74v?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/經典卡通台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/經典卡通台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"經典卡通台\" tvg-name=\"經典卡通台\" tvg-logo=\"https://material.1989.click/logo/經典卡通台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",經典卡通「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"經典卡通台\" tvg-name=\"經典卡通台\" tvg-logo=\"https://iptv.1989.click/logo/經典卡通台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",經典卡通「4gTV」"
   },
   {
     "name": "MOMO親子「4gTV」",
     "url": "https://iptv.1989.click/4gtv/6ye978?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/MOMO親子台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/MOMO親子台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"MOMO親子台\" tvg-name=\"MOMO親子台\" tvg-logo=\"https://material.1989.click/logo/MOMO親子台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",MOMO親子「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"MOMO親子台\" tvg-name=\"MOMO親子台\" tvg-logo=\"https://iptv.1989.click/logo/MOMO親子台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",MOMO親子「4gTV」"
   },
   {
     "name": "Nick Jr. 兒童頻道「4gTV」",
     "url": "https://iptv.1989.click/4gtv/surka6?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Nick-Jr.兒童頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Nick%20Jr.%20兒童頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Nick Jr. 兒童頻道\" tvg-name=\"Nick Jr. 兒童頻道\" tvg-logo=\"https://material.1989.click/logo/Nick-Jr.兒童頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Nick Jr. 兒童頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"Nick Jr. 兒童頻道\" tvg-name=\"Nick Jr. 兒童頻道\" tvg-logo=\"https://iptv.1989.click/logo/Nick%20Jr.%20兒童頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Nick Jr. 兒童頻道「4gTV」"
   },
   {
     "name": "尼克兒童頻道「4gTV」",
@@ -1606,9 +1606,9 @@
     "url": "https://iptv.1989.click/4gtv/saunwv?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/LiveABC互動英語頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/LiveABC互動英語頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"LiveABC互動英語頻道\" tvg-name=\"LiveABC互動英語頻道\" tvg-logo=\"https://material.1989.click/logo/LiveABC互動英語頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",LiveABC互動英語頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"LiveABC互動英語頻道\" tvg-name=\"LiveABC互動英語頻道\" tvg-logo=\"https://iptv.1989.click/logo/LiveABC互動英語頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",LiveABC互動英語頻道「4gTV」"
   },
   {
     "name": "ELTA生活英語「4gTV」",
@@ -1642,9 +1642,9 @@
     "url": "https://iptv.1989.click/4gtv/g5cwdt?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Global-Trekker.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Global%20Trekker.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Global Trekker\" tvg-name=\"Global Trekker\" tvg-logo=\"https://material.1989.click/logo/Global-Trekker.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Global Trekker「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"Global Trekker\" tvg-name=\"Global Trekker\" tvg-logo=\"https://iptv.1989.click/logo/Global%20Trekker.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Global Trekker「4gTV」"
   },
   {
     "name": "LUXE TV Channel「4gTV」",
@@ -1654,6 +1654,42 @@
     "tvg-logo": "https://material.1989.click/logo/LUXE-TV-Channel.png",
     "group-title": "",
     "extinf": "#EXTINF:-1 tvg-id=\"LUXE TV Channel\" tvg-name=\"LUXE TV Channel\" tvg-logo=\"https://material.1989.click/logo/LUXE-TV-Channel.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",LUXE TV Channel「4gTV」"
+  },
+  {
+    "name": "Getwin Sports運動「4gTV」",
+    "url": "https://iptv.1989.click/4gtv/az3nuj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/getwin%20sport運動台.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"getwin sport運動台\" tvg-name=\"getwin sport運動台\" tvg-logo=\"https://iptv.1989.click/logo/getwin%20sport運動台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Getwin Sports運動「4gTV」"
+  },
+  {
+    "name": "ABC Australia 澳洲公廣「4gTV」",
+    "url": "https://iptv.1989.click/4gtv/ttdfn2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/ABC-Australia.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"ABC Australia 澳洲公廣頻道\" tvg-name=\"ABC Australia 澳洲公廣頻道\" tvg-logo=\"https://material.1989.click/logo/ABC-Australia.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",ABC Australia 澳洲公廣「4gTV」"
+  },
+  {
+    "name": "wedotv Movies",
+    "url": "https://iptv.1989.click/4gtv/2vv77x?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"wedotv Movies\" tvg-name=\"wedotv Movies\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",wedotv Movies"
+  },
+  {
+    "name": "OUTtv",
+    "url": "https://iptv.1989.click/4gtv/q2zmu7?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"OUTtv\" tvg-name=\"OUTtv\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",OUTtv"
   },
   {
     "name": "TV5MONDE STYLE 生活時尚「4gTV」",
@@ -1687,9 +1723,9 @@
     "url": "https://iptv.1989.click/4gtv/sxm8am?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/金光布袋戲.png",
+    "tvg-logo": "https://iptv.1989.click/logo/金光布袋戲.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"https://material.1989.click/logo/金光布袋戲.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",金光布袋戲「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"https://iptv.1989.click/logo/金光布袋戲.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",金光布袋戲「4gTV」"
   },
   {
     "name": "原住民族電視「4gTV」",
@@ -1818,42 +1854,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"新唐人亞太台\" tvg-name=\"新唐人亞太台\" tvg-logo=\"https://material.1989.click/logo/新唐人亚太台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",新唐人亞太「4gTV」"
   },
   {
-    "name": "Getwin Sports運動「4gTV」",
-    "url": "https://iptv.1989.click/4gtv/az3nuj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Getwin-Sports運動台.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"getwin sport運動台\" tvg-name=\"getwin sport運動台\" tvg-logo=\"https://material.1989.click/logo/Getwin-Sports運動台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",Getwin Sports運動「4gTV」"
-  },
-  {
-    "name": "ABC Australia 澳洲公廣「4gTV」",
-    "url": "https://iptv.1989.click/4gtv/ttdfn2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/ABC-Australia.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"ABC Australia 澳洲公廣頻道\" tvg-name=\"ABC Australia 澳洲公廣頻道\" tvg-logo=\"https://material.1989.click/logo/ABC-Australia.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",ABC Australia 澳洲公廣「4gTV」"
-  },
-  {
-    "name": "wedotv Movies",
-    "url": "https://iptv.1989.click/4gtv/2vv77x?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"wedotv Movies\" tvg-name=\"wedotv Movies\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",wedotv Movies"
-  },
-  {
-    "name": "OUTtv",
-    "url": "https://iptv.1989.click/4gtv/q2zmu7?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"OUTtv\" tvg-name=\"OUTtv\" tvg-logo=\"https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",OUTtv"
-  },
-  {
     "name": "龍華偶像「ofiii」",
     "url": "https://iptv.1989.click/ofiii/7buc2r?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
@@ -1930,9 +1930,9 @@
     "url": "https://iptv.1989.click/ofiii/x9d4zy?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/台灣戲劇台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/台灣戲劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"台灣戲劇台\" tvg-name=\"台灣戲劇台\" tvg-logo=\"https://material.1989.click/logo/台灣戲劇台.png\" group-title=\"•台灣「Relay」\",台灣戲劇「ofiii」"
+    "extinf": "#EXTINF:-1 tvg-id=\"台灣戲劇台\" tvg-name=\"台灣戲劇台\" tvg-logo=\"https://iptv.1989.click/logo/台灣戲劇台.webp\" group-title=\"•台灣「Relay」\",台灣戲劇「ofiii」"
   },
   {
     "name": "寰宇財經「ofiii」",
@@ -1948,9 +1948,9 @@
     "url": "https://iptv.1989.click/ofiii/rn3g64?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/DayStar.png",
+    "tvg-logo": "https://iptv.1989.click/logo/DayStar.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"DayStar\" tvg-name=\"DayStar\" tvg-logo=\"https://material.1989.click/logo/DayStar.png\" group-title=\"•台灣「Relay」\",DayStar「ofiii」"
+    "extinf": "#EXTINF:-1 tvg-id=\"DayStar\" tvg-name=\"DayStar\" tvg-logo=\"https://iptv.1989.click/logo/DayStar.webp\" group-title=\"•台灣「Relay」\",DayStar「ofiii」"
   },
   {
     "name": "第1商業「ofiii」",
@@ -2470,9 +2470,9 @@
     "url": "https://cdn.qd.je/163189/hjhjt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/黃金華劇台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/黃金華劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"黃金華劇台\" tvg-name=\"黃金華劇台\" tvg-logo=\"https://material.1989.click/logo/黃金華劇台.png\" group-title=\"•港澳台「Juli」\",黃金華劇台「WebVTT字幕」"
+    "extinf": "#EXTINF:-1 tvg-id=\"黃金華劇台\" tvg-name=\"黃金華劇台\" tvg-logo=\"https://iptv.1989.click/logo/黃金華劇台.webp\" group-title=\"•港澳台「Juli」\",黃金華劇台「WebVTT字幕」"
   },
   {
     "name": "Now新聞台",
@@ -2614,18 +2614,18 @@
     "url": "https://cdn.qd.je/163189/tvbc",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/千禧經典台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"千禧經典台\" tvg-name=\"千禧經典台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",千禧經典台"
+    "extinf": "#EXTINF:-1 tvg-id=\"千禧經典台\" tvg-name=\"千禧經典台\" tvg-logo=\"https://iptv.1989.click/logo/千禧經典台.webp\" group-title=\"•港澳台「Juli」\",千禧經典台"
   },
   {
     "name": "娛樂新聞台",
     "url": "https://cdn.qd.je/163189/ylxw",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/娛樂新聞台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"娛樂新聞台\" tvg-name=\"娛樂新聞台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",娛樂新聞台"
+    "extinf": "#EXTINF:-1 tvg-id=\"娛樂新聞台\" tvg-name=\"娛樂新聞台\" tvg-logo=\"https://iptv.1989.click/logo/娛樂新聞台.webp\" group-title=\"•港澳台「Juli」\",娛樂新聞台"
   },
   {
     "name": "翡翠劇集台",
@@ -2641,36 +2641,36 @@
     "url": "https://cdn.qd.je/163189/hlt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/翡翠台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"https://iptv.1989.click/logo/翡翠台.webp\" group-title=\"•港澳台「Juli」\",华丽翡翠台"
   },
   {
     "name": "华丽翡翠台「硬字幕」",
     "url": "https://cdn.qd.je/163189/jade",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/翡翠台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「硬字幕」"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"https://iptv.1989.click/logo/翡翠台.webp\" group-title=\"•港澳台「Juli」\",华丽翡翠台「硬字幕」"
   },
   {
     "name": "华丽翡翠台「新加坡」",
     "url": "https://cdn.qd.je/163189/hlfct",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/翡翠台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"https://iptv.1989.click/logo/翡翠台.webp\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
   },
   {
     "name": "华丽翡翠台「新加坡」",
     "url": "https://cdn.qd.je/163189/jade2",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/翡翠台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"https://iptv.1989.click/logo/翡翠台.webp\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
   },
   {
     "name": "TVB 功夫台",
@@ -2686,27 +2686,27 @@
     "url": "https://cdn.qd.je/163189/tvbxh",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TVB%20星河台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"https://iptv.1989.click/logo/TVB%20星河台.webp\" group-title=\"•港澳台「Juli」\",TVB 星河台"
   },
   {
     "name": "TVB 星河台",
     "url": "https://cdn.qd.je/163189/xinghe",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TVB%20星河台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"https://iptv.1989.click/logo/TVB%20星河台.webp\" group-title=\"•港澳台「Juli」\",TVB 星河台"
   },
   {
     "name": "TVB 星河台",
     "url": "https://cdn.qd.je/163189/tvbxh2",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/TVB%20星河台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",TVB 星河台"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB 星河台\" tvg-name=\"TVB 星河台\" tvg-logo=\"https://iptv.1989.click/logo/TVB%20星河台.webp\" group-title=\"•港澳台「Juli」\",TVB 星河台"
   },
   {
     "name": "澳視澳門",
@@ -2803,27 +2803,27 @@
     "url": "https://cdn.qd.je/163189/hxt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/Astro歡喜台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Astro歡喜台\" tvg-name=\"Astro歡喜台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Astro 歡喜台"
+    "extinf": "#EXTINF:-1 tvg-id=\"Astro歡喜台\" tvg-name=\"Astro歡喜台\" tvg-logo=\"https://iptv.1989.click/logo/Astro歡喜台.webp\" group-title=\"•港澳台「Juli」\",Astro 歡喜台"
   },
   {
     "name": "iQIYI",
     "url": "https://cdn.qd.je/163189/iqiyi",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/iQIYI.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"iQIYI\" tvg-name=\"iQIYI\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",iQIYI"
+    "extinf": "#EXTINF:-1 tvg-id=\"iQIYI\" tvg-name=\"iQIYI\" tvg-logo=\"https://iptv.1989.click/logo/iQIYI.webp\" group-title=\"•港澳台「Juli」\",iQIYI"
   },
   {
-    "name": "八度空间",
+    "name": "八度空間",
     "url": "https://cdn.qd.je/163189/8tv",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/八度空間.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"8TV\" tvg-name=\"8TV\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",八度空间"
+    "extinf": "#EXTINF:-1 tvg-id=\"八度空間\" tvg-name=\"八度空間\" tvg-logo=\"https://iptv.1989.click/logo/八度空間.webp\" group-title=\"•港澳台「Juli」\",八度空間"
   },
   {
     "name": "Channel 5",
@@ -3064,18 +3064,18 @@
     "url": "https://cdn.qd.je/163189/cwjd2",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/重温经典.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",重温经典"
+    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"https://iptv.1989.click/logo/重温经典.webp\" group-title=\"•港澳台「Juli」\",重温经典"
   },
   {
     "name": "重温经典",
     "url": "https://cdn.qd.je/163189/cwjd",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/重温经典.png",
+    "tvg-logo": "https://iptv.1989.click/logo/重温经典.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"https://material.1989.click/logo/重温经典.png\" group-title=\"•港澳台「Juli」\",重温经典"
+    "extinf": "#EXTINF:-1 tvg-id=\"重温经典\" tvg-name=\"重温经典\" tvg-logo=\"https://iptv.1989.click/logo/重温经典.webp\" group-title=\"•港澳台「Juli」\",重温经典"
   },
   {
     "name": "广东珠江",
@@ -3141,15 +3141,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"https://iptv.1989.click/logo/海峡卫视.webp\" group-title=\"•港澳台「Juli」\",海峡卫视"
   },
   {
-    "name": "金光布袋戲",
-    "url": "https://cdn.qd.je/163189/jgbdx",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",金光布袋戲"
-  },
-  {
     "name": "龍華電影台",
     "url": "https://cdn.qd.je/163189/lhdy",
     "tvg-id": "",
@@ -3213,6 +3204,24 @@
     "extinf": "#EXTINF:-1 tvg-id=\"龍華卡通台\" tvg-name=\"龍華卡通台\" tvg-logo=\"https://iptv.1989.click/logo/龍華卡通台.webp\" group-title=\"•港澳台「Juli」\",龍華卡通台"
   },
   {
+    "name": "金光布袋戲",
+    "url": "https://cdn.qd.je/163189/jgbdx",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/金光布袋戲.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"https://iptv.1989.click/logo/金光布袋戲.webp\" group-title=\"•港澳台「Juli」\",金光布袋戲"
+  },
+  {
+    "name": "金光布袋戲",
+    "url": "https://cdn.qd.je/163189/jgbdx2",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/金光布袋戲.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"https://iptv.1989.click/logo/金光布袋戲.webp\" group-title=\"•港澳台「Juli」\",金光布袋戲"
+  },
+  {
     "name": "民視影劇台",
     "url": "https://cdn.qd.je/163189/msyj",
     "tvg-id": "",
@@ -3235,9 +3244,9 @@
     "url": "https://cdn.qd.je/163189/ccyj",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/采昌影劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"采昌影劇台\" tvg-name=\"采昌影劇台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",采昌影劇台"
+    "extinf": "#EXTINF:-1 tvg-id=\"采昌影劇台\" tvg-name=\"采昌影劇台\" tvg-logo=\"https://iptv.1989.click/logo/采昌影劇台.webp\" group-title=\"•港澳台「Juli」\",采昌影劇台"
   },
   {
     "name": "靖天映畫",
@@ -3271,27 +3280,27 @@
     "url": "https://cdn.qd.je/163189/jyxj",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/靖洋戲劇台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"靖洋戲劇台\" tvg-name=\"靖洋戲劇台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",靖洋戲劇台"
+    "extinf": "#EXTINF:-1 tvg-id=\"靖洋戲劇台\" tvg-name=\"靖洋戲劇台\" tvg-logo=\"https://iptv.1989.click/logo/靖洋戲劇台.webp\" group-title=\"•港澳台「Juli」\",靖洋戲劇台"
   },
   {
     "name": "影迷數位電影台",
     "url": "https://cdn.qd.je/163189/ymswdyt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/影迷數位電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"影迷數位電影台\" tvg-name=\"影迷數位電影台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",影迷數位電影台"
+    "extinf": "#EXTINF:-1 tvg-id=\"影迷數位電影台\" tvg-name=\"影迷數位電影台\" tvg-logo=\"https://iptv.1989.click/logo/影迷數位電影台.webp\" group-title=\"•港澳台「Juli」\",影迷數位電影台"
   },
   {
     "name": "amc電影台",
     "url": "https://cdn.qd.je/163189/amc",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/amc電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"amc電影台\" tvg-name=\"amc電影台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",amc電影台"
+    "extinf": "#EXTINF:-1 tvg-id=\"amc電影台\" tvg-name=\"amc電影台\" tvg-logo=\"https://iptv.1989.click/logo/amc電影台.webp\" group-title=\"•港澳台「Juli」\",amc電影台"
   },
   {
     "name": "CinemaWorld頻道",
@@ -3307,54 +3316,45 @@
     "url": "https://cdn.qd.je/163189/mce",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/My%20Cinema%20Europe%20我的歐洲電影.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"My Cinema Europe 我的歐洲電影\" tvg-name=\"My Cinema Europe 我的歐洲電影\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",MCE 我的歐洲電影"
+    "extinf": "#EXTINF:-1 tvg-id=\"My Cinema Europe 我的歐洲電影\" tvg-name=\"My Cinema Europe 我的歐洲電影\" tvg-logo=\"https://iptv.1989.click/logo/My%20Cinema%20Europe%20我的歐洲電影.webp\" group-title=\"•港澳台「Juli」\",MCE 我的歐洲電影"
   },
   {
     "name": "經典電影台",
     "url": "https://cdn.qd.je/163189/jddyt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/經典電影台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"經典電影台\" tvg-name=\"經典電影台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",經典電影台"
+    "extinf": "#EXTINF:-1 tvg-id=\"經典電影台\" tvg-name=\"經典電影台\" tvg-logo=\"https://iptv.1989.click/logo/經典電影台.webp\" group-title=\"•港澳台「Juli」\",經典電影台"
   },
   {
     "name": "電影原聲台CMusic",
     "url": "https://cdn.qd.je/163189/cmusic",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/電影原聲台CMusic.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"電影原聲台CMusic\" tvg-name=\"電影原聲台CMusic\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",電影原聲台CMusic"
+    "extinf": "#EXTINF:-1 tvg-id=\"電影原聲台CMusic\" tvg-name=\"電影原聲台CMusic\" tvg-logo=\"https://iptv.1989.click/logo/電影原聲台CMusic.webp\" group-title=\"•港澳台「Juli」\",電影原聲台CMusic"
   },
   {
     "name": "DreamWorks 夢工廠動畫",
     "url": "https://cdn.qd.je/163189/dreamworks",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/DreamWorks%20夢工廠動畫.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"DreamWorks 夢工廠動畫\" tvg-name=\"DreamWorks 夢工廠動畫\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",DreamWorks 夢工廠動畫"
+    "extinf": "#EXTINF:-1 tvg-id=\"DreamWorks 夢工廠動畫\" tvg-name=\"DreamWorks 夢工廠動畫\" tvg-logo=\"https://iptv.1989.click/logo/DreamWorks%20夢工廠動畫.webp\" group-title=\"•港澳台「Juli」\",DreamWorks 夢工廠動畫"
   },
   {
     "name": "精選動漫台",
     "url": "https://cdn.qd.je/163189/jxdmt",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/精選動漫台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"精選動漫台\" tvg-name=\"精選動漫台\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",精選動漫台"
-  },
-  {
-    "name": "金光布袋戲",
-    "url": "https://cdn.qd.je/163189/jgbdx2",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"金光布袋戲\" tvg-name=\"金光布袋戲\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",金光布袋戲"
+    "extinf": "#EXTINF:-1 tvg-id=\"精選動漫台\" tvg-name=\"精選動漫台\" tvg-logo=\"https://iptv.1989.click/logo/精選動漫台.webp\" group-title=\"•港澳台「Juli」\",精選動漫台"
   },
   {
     "name": "緯來電影台",
