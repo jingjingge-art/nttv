@@ -414,22 +414,13 @@
     "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 精選\" tvg-name=\"Now Sports 精選\" tvg-logo=\"https://material.1989.click/logo/Now Sports 精選.png\" group-title=\"•香港「Relay」\",Now Sports 精選"
   },
   {
-    "name": "Now Sports 英超 X 台",
-    "url": "https://iptv.1989.click/hkg/33fc87?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Now-Sports-618.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-618.png\" group-title=\"•香港「Relay」\",Now Sports 英超 X 台"
-  },
-  {
-    "name": "Now Sports 英超 2台",
+    "name": "Now Sports 英超",
     "url": "https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/Now-Sports-617.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 英超 2台"
+    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 英超"
   },
   {
     "name": "雷霆881「電台」",
