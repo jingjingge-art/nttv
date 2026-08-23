@@ -454,27 +454,27 @@
     "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY76.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20國際財經台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY 國際財經台\" tvg-name=\"HOY 國際財經台\" tvg-logo=\"https://material.1989.click/logo/HOY76.png\" group-title=\"•香港「Relay」\",HOY 國際財經台"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY 國際財經台\" tvg-name=\"HOY 國際財經台\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20國際財經台.webp\" group-title=\"•香港「Relay」\",HOY 國際財經台"
   },
   {
     "name": "HOY TV",
     "url": "https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY77.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20TV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://material.1989.click/logo/HOY77.png\" group-title=\"•香港「Relay」\",HOY TV"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20TV.webp\" group-title=\"•香港「Relay」\",HOY TV"
   },
   {
     "name": "HOY 資訊台",
     "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY78.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20資訊台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY 資訊台\" tvg-name=\"HOY 資訊台\" tvg-logo=\"https://material.1989.click/logo/HOY78.png\" group-title=\"•香港「Relay」\",HOY 資訊台"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY 資訊台\" tvg-name=\"HOY 資訊台\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20資訊台.webp\" group-title=\"•香港「Relay」\",HOY 資訊台"
   },
   {
     "name": "RTHK 31",
@@ -616,18 +616,18 @@
     "url": "https://iptv.1989.click/tw/9snd48?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/愛爾達體育1台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育1台\" tvg-name=\"愛爾達體育1台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 一"
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育1台\" tvg-name=\"愛爾達體育1台\" tvg-logo=\"https://iptv.1989.click/logo/愛爾達體育1台.webp\" group-title=\"•台灣「Relay」\",愛爾達體育 一"
   },
   {
     "name": "愛爾達體育 二",
     "url": "https://iptv.1989.click/tw/kgpva4?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/愛爾達體育2台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育2台\" tvg-name=\"愛爾達體育2台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 二"
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育2台\" tvg-name=\"愛爾達體育2台\" tvg-logo=\"https://iptv.1989.click/logo/愛爾達體育2台.webp\" group-title=\"•台灣「Relay」\",愛爾達體育 二"
   },
   {
     "name": "DAZN 1",
@@ -1201,9 +1201,9 @@
     "url": "https://iptv.1989.click/4gtv/rx4huj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/愛爾達生活旅遊台.png",
+    "tvg-logo": "https://iptv.1989.click/logo/愛爾達生活旅遊台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達生活旅遊台\" tvg-name=\"愛爾達生活旅遊台\" tvg-logo=\"https://material.1989.click/logo/愛爾達生活旅遊台.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",愛爾達生活旅遊「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達生活旅遊台\" tvg-name=\"愛爾達生活旅遊台\" tvg-logo=\"https://iptv.1989.click/logo/愛爾達生活旅遊台.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",愛爾達生活旅遊「4gTV」"
   },
   {
     "name": "鏡電視新聞「4gTV」",
@@ -1381,9 +1381,9 @@
     "url": "https://iptv.1989.click/4gtv/yn9a2q?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/CI-罪案偵查頻道.png",
+    "tvg-logo": "https://iptv.1989.click/logo/CI%20罪案偵查頻道.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"CI 罪案偵查頻道\" tvg-name=\"CI 罪案偵查頻道\" tvg-logo=\"https://material.1989.click/logo/CI-罪案偵查頻道.png\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CI 罪案偵查頻道「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"CI 罪案偵查頻道\" tvg-name=\"CI 罪案偵查頻道\" tvg-logo=\"https://iptv.1989.click/logo/CI%20罪案偵查頻道.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",CI 罪案偵查頻道「4gTV」"
   },
   {
     "name": "History 歷史頻道「4gTV」",
@@ -2272,18 +2272,18 @@
     "url": "https://iptv.1989.click/comp/2fy4q4?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/BBC-Earth.png",
+    "tvg-logo": "https://iptv.1989.click/logo/BBC%20Earth.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBC Earth\" tvg-name=\"BBC Earth\" tvg-logo=\"https://material.1989.click/logo/BBC-Earth.png\" group-title=\"•綜合「Relay」\",BBC Earth"
+    "extinf": "#EXTINF:-1 tvg-id=\"BBC Earth\" tvg-name=\"BBC Earth\" tvg-logo=\"https://iptv.1989.click/logo/BBC%20Earth.webp\" group-title=\"•綜合「Relay」\",BBC Earth"
   },
   {
     "name": "BBC Lifestyle",
     "url": "https://iptv.1989.click/comp/jvcsnb?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/BBC-Lifestyle.png",
+    "tvg-logo": "https://iptv.1989.click/logo/BBC%20Lifestyle.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBC Lifestyle\" tvg-name=\"BBC Lifestyle\" tvg-logo=\"https://material.1989.click/logo/BBC-Lifestyle.png\" group-title=\"•綜合「Relay」\",BBC Lifestyle"
+    "extinf": "#EXTINF:-1 tvg-id=\"BBC Lifestyle\" tvg-name=\"BBC Lifestyle\" tvg-logo=\"https://iptv.1989.click/logo/BBC%20Lifestyle.webp\" group-title=\"•綜合「Relay」\",BBC Lifestyle"
   },
   {
     "name": "Discovery",
@@ -2299,63 +2299,63 @@
     "url": "https://iptv.1989.click/comp/ycvxe4?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HBO.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HBO.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBO\" tvg-name=\"HBO\" tvg-logo=\"https://material.1989.click/logo/HBO.png\" group-title=\"•綜合「Relay」\",HBO"
+    "extinf": "#EXTINF:-1 tvg-id=\"HBO\" tvg-name=\"HBO\" tvg-logo=\"https://iptv.1989.click/logo/HBO.webp\" group-title=\"•綜合「Relay」\",HBO"
   },
   {
     "name": "HBO Hits",
     "url": "https://iptv.1989.click/comp/z7zdk2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HBO-Hits.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HBO%20Hits.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBO Hits\" tvg-name=\"HBO Hits\" tvg-logo=\"https://material.1989.click/logo/HBO-Hits.png\" group-title=\"•綜合「Relay」\",HBO Hits"
+    "extinf": "#EXTINF:-1 tvg-id=\"HBO Hits\" tvg-name=\"HBO Hits\" tvg-logo=\"https://iptv.1989.click/logo/HBO%20Hits.webp\" group-title=\"•綜合「Relay」\",HBO Hits"
   },
   {
     "name": "HBO Family",
     "url": "https://iptv.1989.click/comp/ggxeb8?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HBO-Family.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HBO%20Family.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBO Family\" tvg-name=\"HBO Family\" tvg-logo=\"https://material.1989.click/logo/HBO-Family.png\" group-title=\"•綜合「Relay」\",HBO Family"
+    "extinf": "#EXTINF:-1 tvg-id=\"HBO Family\" tvg-name=\"HBO Family\" tvg-logo=\"https://iptv.1989.click/logo/HBO%20Family.webp\" group-title=\"•綜合「Relay」\",HBO Family"
   },
   {
     "name": "HBO Signature",
     "url": "https://iptv.1989.click/comp/yx4b4b?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HBO-Signature.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HBO%20Signature.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBO Signature\" tvg-name=\"HBO Signature\" tvg-logo=\"https://material.1989.click/logo/HBO-Signature.png\" group-title=\"•綜合「Relay」\",HBO Signature"
+    "extinf": "#EXTINF:-1 tvg-id=\"HBO Signature\" tvg-name=\"HBO Signature\" tvg-logo=\"https://iptv.1989.click/logo/HBO%20Signature.webp\" group-title=\"•綜合「Relay」\",HBO Signature"
   },
   {
     "name": "Channel 5",
     "url": "https://iptv.1989.click/comp/gm62un?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Channel5.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%205.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"https://material.1989.click/logo/Channel5.png\" group-title=\"•綜合「Relay」\",Channel 5"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"https://iptv.1989.click/logo/Channel%205.webp\" group-title=\"•綜合「Relay」\",Channel 5"
   },
   {
     "name": "Channel 8",
     "url": "https://iptv.1989.click/comp/uyqnx8?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Channel8.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%208.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"https://material.1989.click/logo/Channel8.png\" group-title=\"•綜合「Relay」\",Channel 8"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"https://iptv.1989.click/logo/Channel%208.webp\" group-title=\"•綜合「Relay」\",Channel 8"
   },
   {
     "name": "Channel U",
     "url": "https://iptv.1989.click/comp/e37rnu?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/ChannelU.png",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%20U.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"https://material.1989.click/logo/ChannelU.png\" group-title=\"•綜合「Relay」\",Channel U"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"https://iptv.1989.click/logo/Channel%20U.webp\" group-title=\"•綜合「Relay」\",Channel U"
   },
   {
     "name": "中天亞洲",
@@ -2515,36 +2515,36 @@
     "url": "https://cdn.qd.je/163189/hoy",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY77.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20TV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://material.1989.click/logo/HOY77.png\" group-title=\"•港澳台「Juli」\",HOY TV"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20TV.webp\" group-title=\"•港澳台「Juli」\",HOY TV"
   },
   {
     "name": "HOY TV",
     "url": "https://cdn.qd.je/163189/hoy2",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY77.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20TV.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://material.1989.click/logo/HOY77.png\" group-title=\"•港澳台「Juli」\",HOY TV"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY TV\" tvg-name=\"HOY TV\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20TV.webp\" group-title=\"•港澳台「Juli」\",HOY TV"
   },
   {
     "name": "HOY 資訊台",
     "url": "https://cdn.qd.je/163189/hoy78",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY78.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20資訊台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY 資訊台\" tvg-name=\"HOY 資訊台\" tvg-logo=\"https://material.1989.click/logo/HOY78.png\" group-title=\"•港澳台「Juli」\",HOY 資訊台"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY 資訊台\" tvg-name=\"HOY 資訊台\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20資訊台.webp\" group-title=\"•港澳台「Juli」\",HOY 資訊台"
   },
   {
     "name": "HOY 國際財經台",
     "url": "https://cdn.qd.je/163189/hoy76",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/HOY76.png",
+    "tvg-logo": "https://iptv.1989.click/logo/HOY%20國際財經台.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"HOY 國際財經台\" tvg-name=\"HOY 國際財經台\" tvg-logo=\"https://material.1989.click/logo/HOY76.png\" group-title=\"•港澳台「Juli」\",HOY 國際財經台"
+    "extinf": "#EXTINF:-1 tvg-id=\"HOY 國際財經台\" tvg-name=\"HOY 國際財經台\" tvg-logo=\"https://iptv.1989.click/logo/HOY%20國際財經台.webp\" group-title=\"•港澳台「Juli」\",HOY 國際財經台"
   },
   {
     "name": "ViuTV",
@@ -2830,27 +2830,27 @@
     "url": "https://cdn.qd.je/163189/ch5",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%205.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 5"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 5\" tvg-name=\"Channel 5\" tvg-logo=\"https://iptv.1989.click/logo/Channel%205.webp\" group-title=\"•港澳台「Juli」\",Channel 5"
   },
   {
     "name": "Channel 8",
     "url": "https://cdn.qd.je/163189/ch8",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%208.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel 8"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel 8\" tvg-name=\"Channel 8\" tvg-logo=\"https://iptv.1989.click/logo/Channel%208.webp\" group-title=\"•港澳台「Juli」\",Channel 8"
   },
   {
     "name": "Channel U",
     "url": "https://cdn.qd.je/163189/chu",
     "tvg-id": "",
     "tvg-name": "",
-    "tvg-logo": "",
+    "tvg-logo": "https://iptv.1989.click/logo/Channel%20U.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",Channel U"
+    "extinf": "#EXTINF:-1 tvg-id=\"Channel U\" tvg-name=\"Channel U\" tvg-logo=\"https://iptv.1989.click/logo/Channel%20U.webp\" group-title=\"•港澳台「Juli」\",Channel U"
   },
   {
     "name": "CCTV1",
