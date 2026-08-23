@@ -279,40 +279,40 @@
     "extinf": "#EXTINF:-1 tvg-id=\"四川卫视\" tvg-name=\"四川卫视\" tvg-logo=\"https://material.1989.click/logo/四川卫视.png\" group-title=\"•央視「Relay」\",四川衛視「Relay」"
   },
   {
-    "name": "鳳凰衛視·中文｜72小时回看",
+    "name": "鳳凰衛視·中文「72小时回看」",
     "url": "https://iptv.1989.click/phoenix/segv57?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/凤凰中文.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰中文台\" tvg-name=\"凤凰中文台\" tvg-logo=\"https://material.1989.click/logo/凤凰中文.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·中文｜72小时回看"
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰中文台\" tvg-name=\"凤凰中文台\" tvg-logo=\"https://material.1989.click/logo/凤凰中文.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·中文「72小时回看」"
   },
   {
-    "name": "鳳凰衛視·資訊｜72小时回看",
+    "name": "鳳凰衛視·資訊「72小时回看」",
     "url": "https://iptv.1989.click/phoenix/esmvja?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/凤凰资讯.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰资讯台\" tvg-name=\"凤凰资讯台\" tvg-logo=\"https://material.1989.click/logo/凤凰资讯.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·資訊｜72小时回看"
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰资讯台\" tvg-name=\"凤凰资讯台\" tvg-logo=\"https://material.1989.click/logo/凤凰资讯.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·資訊「72小时回看」"
   },
   {
-    "name": "鳳凰衛視·香港｜72小时回看",
+    "name": "鳳凰衛視·香港「72小时回看」",
     "url": "https://iptv.1989.click/phoenix/vm4pbq?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/凤凰香港.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"凤凰香港台\" tvg-name=\"凤凰香港台\" tvg-logo=\"https://material.1989.click/logo/凤凰香港.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·香港｜72小时回看"
+    "extinf": "#EXTINF:-1 tvg-id=\"凤凰香港台\" tvg-name=\"凤凰香港台\" tvg-logo=\"https://material.1989.click/logo/凤凰香港.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"3\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\" http-user-agent=\"okhttp/3.14.9\",鳳凰衛視·香港「72小时回看」"
   },
   {
-    "name": "翡翠台｜24小时回看",
+    "name": "翡翠台「24小时回看」",
     "url": "https://iptv.1989.click/hk/wmpyht?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/翡翠台.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"翡翠台\" tvg-name=\"翡翠台\" tvg-logo=\"https://material.1989.click/logo/翡翠台.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"1\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\",翡翠台｜24小时回看"
+    "extinf": "#EXTINF:-1 tvg-id=\"翡翠台\" tvg-name=\"翡翠台\" tvg-logo=\"https://material.1989.click/logo/翡翠台.png\" group-title=\"•香港「Relay」\" catchup=\"append\" catchup-days=\"1\" catchup-source=\"&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\",翡翠台「24小时回看」"
   },
   {
     "name": "無綫新聞台",
@@ -414,15 +414,6 @@
     "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 精選\" tvg-name=\"Now Sports 精選\" tvg-logo=\"https://material.1989.click/logo/Now Sports 精選.png\" group-title=\"•香港「Relay」\",Now Sports 精選"
   },
   {
-    "name": "Now Sports 英超 2台",
-    "url": "https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/Now-Sports-617.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 英超 2台"
-  },
-  {
     "name": "Now Sports 英超 X 台",
     "url": "https://iptv.1989.click/hkg/33fc87?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
@@ -432,31 +423,40 @@
     "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-618.png\" group-title=\"•香港「Relay」\",Now Sports 英超 X 台"
   },
   {
-    "name": "雷霆881｜電台",
+    "name": "Now Sports 英超 2台",
+    "url": "https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/Now-Sports-617.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"Now Sports 英超2台\" tvg-name=\"Now Sports 英超2台\" tvg-logo=\"https://material.1989.click/logo/Now-Sports-617.png\" group-title=\"•香港「Relay」\",Now Sports 英超 2台"
+  },
+  {
+    "name": "雷霆881「電台」",
     "url": "https://iptv.1989.click/hkg/rcahhd?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/雷霆881.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 雷霆881\" tvg-name=\"商業電台 雷霆881\" tvg-logo=\"https://material.1989.click/logo/雷霆881.png\" group-title=\"•香港「Relay」\",雷霆881｜電台"
+    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 雷霆881\" tvg-name=\"商業電台 雷霆881\" tvg-logo=\"https://material.1989.click/logo/雷霆881.png\" group-title=\"•香港「Relay」\",雷霆881「電台」"
   },
   {
-    "name": "叱咤903｜電台",
+    "name": "叱咤903「電台」",
     "url": "https://iptv.1989.click/hkg/huuypn?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/叱咤903.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 叱咤903\" tvg-name=\"商業電台 叱咤903\" tvg-logo=\"https://material.1989.click/logo/叱咤903.png\" group-title=\"•香港「Relay」\",叱咤903｜電台"
+    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 叱咤903\" tvg-name=\"商業電台 叱咤903\" tvg-logo=\"https://material.1989.click/logo/叱咤903.png\" group-title=\"•香港「Relay」\",叱咤903「電台」"
   },
   {
-    "name": "AM864｜電台",
+    "name": "AM864「電台」",
     "url": "https://iptv.1989.click/hkg/tepu3g?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/AM864.png",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 AM864\" tvg-name=\"商業電台 AM864\" tvg-logo=\"https://material.1989.click/logo/AM864.png\" group-title=\"•香港「Relay」\",AM864｜電台"
+    "extinf": "#EXTINF:-1 tvg-id=\"商業電台 AM864\" tvg-name=\"商業電台 AM864\" tvg-logo=\"https://material.1989.click/logo/AM864.png\" group-title=\"•香港「Relay」\",AM864「電台」"
   },
   {
     "name": "HOY 國際財經台",
@@ -2358,6 +2358,24 @@
     "extinf": "#EXTINF:-1 tvg-id=\"翡翠台\" tvg-name=\"翡翠台\" tvg-logo=\"https://material.1989.click/logo/翡翠台.png\" group-title=\"•港澳台「Juli」\",翡翠台「WebVTT字幕」"
   },
   {
+    "name": "無綫新聞台",
+    "url": "https://cdn.qd.je/163189/wxxw",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/無綫新聞台.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"無綫新聞台\" tvg-name=\"無綫新聞台\" tvg-logo=\"https://material.1989.click/logo/無綫新聞台.png\" group-title=\"•港澳台「Juli」\",無綫新聞台"
+  },
+  {
+    "name": "無綫新聞台",
+    "url": "https://cdn.qd.je/163189/wxxwt",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://material.1989.click/logo/無綫新聞台.png",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"無綫新聞台\" tvg-name=\"無綫新聞台\" tvg-logo=\"https://material.1989.click/logo/無綫新聞台.png\" group-title=\"•港澳台「Juli」\",無綫新聞台"
+  },
+  {
     "name": "明珠台「字幕」",
     "url": "https://cdn.qd.je/163189/mzt",
     "tvg-id": "",
@@ -2374,15 +2392,6 @@
     "tvg-logo": "https://material.1989.click/logo/明珠台.png",
     "group-title": "",
     "extinf": "#EXTINF:-1 tvg-id=\"明珠台\" tvg-name=\"明珠台\" tvg-logo=\"https://material.1989.click/logo/明珠台.png\" group-title=\"•港澳台「Juli」\",明珠台「WebVTT字幕」"
-  },
-  {
-    "name": "無綫新聞台",
-    "url": "https://cdn.qd.je/163189/wxxw",
-    "tvg-id": "",
-    "tvg-name": "",
-    "tvg-logo": "https://material.1989.click/logo/無綫新聞台.png",
-    "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"無綫新聞台\" tvg-name=\"無綫新聞台\" tvg-logo=\"https://material.1989.click/logo/無綫新聞台.png\" group-title=\"•港澳台「Juli」\",無綫新聞台"
   },
   {
     "name": "TVB Plus",
@@ -2530,7 +2539,7 @@
   },
   {
     "name": "RTHK33",
-    "url": "https://cdn.qd.je/163189/cctv1",
+    "url": "https://cdn.qd.je/163189/rthk33",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK33.webp",
@@ -2754,31 +2763,31 @@
     "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台"
   },
   {
-    "name": "华丽翡翠台[硬字幕]",
+    "name": "华丽翡翠台「硬字幕」",
     "url": "https://cdn.qd.je/163189/jade",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台[硬字幕]"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「硬字幕」"
   },
   {
-    "name": "华丽翡翠台[新加坡]",
+    "name": "华丽翡翠台「新加坡」",
     "url": "https://cdn.qd.je/163189/hlfct",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台[新加坡]"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
   },
   {
-    "name": "华丽翡翠台[新加坡]",
+    "name": "华丽翡翠台「新加坡」",
     "url": "https://cdn.qd.je/163189/jade2",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台[新加坡]"
+    "extinf": "#EXTINF:-1 tvg-id=\"TVB Jade\" tvg-name=\"TVB Jade\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",华丽翡翠台「新加坡」"
   },
   {
     "name": "功夫台",
@@ -2844,40 +2853,40 @@
     "extinf": "#EXTINF:-1 tvg-id=\"海峡卫视\" tvg-name=\"海峡卫视\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",海峡卫视"
   },
   {
-    "name": "天映頻道｜新加坡",
+    "name": "天映頻道「新加坡」",
     "url": "https://cdn.qd.je/163189/typd",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道新加坡\" tvg-name=\"天映頻道新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道｜新加坡"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道新加坡\" tvg-name=\"天映頻道新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道「新加坡」"
   },
   {
-    "name": "天映經典｜新加坡",
+    "name": "天映經典「新加坡」",
     "url": "https://cdn.qd.je/163189/ccm",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映經典新加坡\" tvg-name=\"天映經典新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典｜新加坡"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映經典新加坡\" tvg-name=\"天映經典新加坡\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典「新加坡」"
   },
   {
-    "name": "天映頻道｜马来西亚",
+    "name": "天映頻道「马来西亚」",
     "url": "https://cdn.qd.je/163189/typd2",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道馬來西亞\" tvg-name=\"天映頻道馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道｜马来西亚"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映頻道馬來西亞\" tvg-name=\"天映頻道馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映頻道「马来西亚」"
   },
   {
-    "name": "天映經典｜馬來西亞",
+    "name": "天映經典「馬來西亞」",
     "url": "https://cdn.qd.je/163189/ccm2",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"天映經典馬來西亞\" tvg-name=\"天映經典馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典｜馬來西亞"
+    "extinf": "#EXTINF:-1 tvg-id=\"天映經典馬來西亞\" tvg-name=\"天映經典馬來西亞\" tvg-logo=\"\" group-title=\"•港澳台「Juli」\",天映經典「馬來西亞」"
   },
   {
     "name": "Astro AOD",
@@ -3053,6 +3062,15 @@
   {
     "name": "CCTV13",
     "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv13",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/CCTV13.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"CCTV13\" tvg-name=\"CCTV13\" tvg-logo=\"https://iptv.1989.click/logo/CCTV13.webp\" group-title=\"•港澳台「Juli」\",CCTV13"
+  },
+  {
+    "name": "CCTV13",
+    "url": "https://cdn.qd.je/163189/cctv13-2",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/CCTV13.webp",
