@@ -460,7 +460,7 @@
   },
   {
     "name": "HOY 國際財經台",
-    "url": "https://iptv.1989.click/hkgf/e7wspc?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY76.png",
@@ -469,7 +469,7 @@
   },
   {
     "name": "HOY TV",
-    "url": "https://iptv.1989.click/hkgf/vjqrnv?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY77.png",
@@ -478,7 +478,7 @@
   },
   {
     "name": "HOY 資訊台",
-    "url": "https://iptv.1989.click/hkgf/zvykuy?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/HOY78.png",
@@ -487,7 +487,7 @@
   },
   {
     "name": "RTHK 31",
-    "url": "https://iptv.1989.click/hkgf/9rnn4g?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK31.webp",
@@ -496,7 +496,7 @@
   },
   {
     "name": "RTHK 32",
-    "url": "https://iptv.1989.click/hkgf/7tzz9c?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK32.webp",
@@ -505,7 +505,7 @@
   },
   {
     "name": "RTHK 33",
-    "url": "https://iptv.1989.click/hkgf/vbkbbd?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/RTHK33.webp",
@@ -514,7 +514,7 @@
   },
   {
     "name": "澳門衛星",
-    "url": "https://iptv.1989.click/hkgf/y99mj5?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门Macau.png",
@@ -523,7 +523,7 @@
   },
   {
     "name": "澳門葡文",
-    "url": "https://iptv.1989.click/hkgf/62dm4y?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳视葡文.png",
@@ -532,7 +532,7 @@
   },
   {
     "name": "澳視澳門",
-    "url": "https://iptv.1989.click/hkgf/x3u3tn?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳视澳门.png",
@@ -541,7 +541,7 @@
   },
   {
     "name": "澳門資訊",
-    "url": "https://iptv.1989.click/hkgf/jsawfh?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门资讯.png",
@@ -550,7 +550,7 @@
   },
   {
     "name": "澳門體育",
-    "url": "https://iptv.1989.click/hkgf/n5ky5q?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门体育.png",
@@ -559,7 +559,7 @@
   },
   {
     "name": "澳門綜藝",
-    "url": "https://iptv.1989.click/hkgf/g699j2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "url": "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
     "tvg-id": "",
     "tvg-name": "",
     "tvg-logo": "https://material.1989.click/logo/澳门综艺.png",
