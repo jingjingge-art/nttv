@@ -621,6 +621,42 @@
     "extinf": "#EXTINF:-1 tvg-id=\"緯來育樂台\" tvg-name=\"緯來育樂台\" tvg-logo=\"https://material.1989.click/logo/緯來育樂.png\" group-title=\"•台灣「Relay」\",緯來育樂「Relay」"
   },
   {
+    "name": "愛爾達體育 一",
+    "url": "https://iptv.1989.click/tw/9snd48?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育1台\" tvg-name=\"愛爾達體育1台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 一"
+  },
+  {
+    "name": "愛爾達體育 二",
+    "url": "https://iptv.1989.click/tw/kgpva4?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"愛爾達體育1台\" tvg-name=\"愛爾達體育1台\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",愛爾達體育 二"
+  },
+  {
+    "name": "DAZN 1",
+    "url": "https://iptv.1989.click/tw/2f7b62?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"DAZN 1\" tvg-name=\"DAZN 1\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",DAZN 1"
+  },
+  {
+    "name": "DAZN 2",
+    "url": "https://iptv.1989.click/tw/ur9mh6?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"DAZN 2\" tvg-name=\"DAZN 2\" tvg-logo=\"\" group-title=\"•台灣「Relay」\",DAZN 2"
+  },
+  {
     "name": "年代新聞「Relay」",
     "url": "https://iptv.1989.click/tw/7urhfs?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d",
     "tvg-id": "",
