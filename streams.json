@@ -1248,7 +1248,7 @@
     "tvg-name": "",
     "tvg-logo": "https://iptv.1989.click/logo/NHK%20World-Japan.webp",
     "group-title": "",
-    "extinf": "#EXTINF:-1 tvg-id=\"NHK World-Japan\" tvg-name=\"NHK World-Japan\" tvg-logo=\"https://iptv.1989.click/logo/NHK%20World-Japan.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",NHK 新聞資訊「4gTV」"
+    "extinf": "#EXTINF:-1 tvg-id=\"NHK World Japan\" tvg-name=\"NHK World Japan\" tvg-logo=\"https://iptv.1989.click/logo/NHK%20World-Japan.webp\" group-title=\"•台灣「Relay」\" http-user-agent=\"okhttp/3.14.9\",NHK 新聞資訊「4gTV」"
   },
   {
     "name": "CNBC Asia 財經「4gTV」",
