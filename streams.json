@@ -1917,6 +1917,15 @@
     "extinf": "#EXTINF:-1 tvg-id=\"龍華電影台\" tvg-name=\"龍華電影台\" tvg-logo=\"https://iptv.1989.click/logo/龍華電影台.webp\" group-title=\"•台灣「Relay」\",龍華電影「ofiii」"
   },
   {
+    "name": "中天新聞「ofiii」",
+    "url": "https://iptv.1989.click/ofiii/sjva4k?token=c26aa9abd789d6a3ff873a4e08439ce2dbcd46cc97a80bb4",
+    "tvg-id": "",
+    "tvg-name": "",
+    "tvg-logo": "https://iptv.1989.click/logo/中天新聞台.webp",
+    "group-title": "",
+    "extinf": "#EXTINF:-1 tvg-id=\"中天新聞台\" tvg-name=\"中天新聞台\" tvg-logo=\"https://iptv.1989.click/logo/中天新聞台.webp\" group-title=\"•台灣「Relay」\",中天新聞「ofiii」"
+  },
+  {
     "name": "台視新聞「ofiii」",
     "url": "https://iptv.1989.click/ofiii/g9kgrv?token=c26aa9abd789d6a3ff873a4e08439ce2dbcd46cc97a80bb4",
     "tvg-id": "",
