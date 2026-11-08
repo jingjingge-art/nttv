@@ -4,7 +4,7 @@
   - streams.json
   - streams.csv
 
-目标 URL: https://iptv.1989.click/playlist.m3u
+目标 URL: https://live.yang-1989.eu.org/Live.m3u
 """
 import re
 import csv
